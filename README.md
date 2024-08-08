@@ -24,26 +24,32 @@ Memory Word is a simple yet effective English word memorization application desi
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/muhammed-gumus/memory-word.git
    cd memory-word
 
 2. **Install dependencies for both frontend and backend:**
+
    ```bash
    npm install
    
 3. **Set up your environment variables:**
-
-
    Create a .env file in the root directory and add the following:
+   
    ```bash
    MONGODB_URI=your_mongodb_connection_string
    NEXT_PUBLIC_API_URL=your_api_url
 
-4. **Run the development server:**
+4. **Run the backend server:**
+    
+   ```bash
+    npm run start:backend
+
+5. **Run the frontend development server:**
+   
    ```bash
     npm run dev
-
 
 ## Usage
 
