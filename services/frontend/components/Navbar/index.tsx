@@ -9,21 +9,21 @@ export default function Navbar() {
       <div className="container mx-auto flex justify-between items-center px-4">
         <Link href="/">
           <img
-            width="48"
-            height="48"
+            width="64"
+            height="64"
             src="https://img.icons8.com/color/48/where-what-quest.png"
             alt="where-what-quest"
           />
         </Link>
         <div className="flex flex-row gap-8 items-center">
-          <a
-            href="/MuhammedGumusResume.pdf"
+          <Link
+            href="https://www.wordigo.app/tr"
             target="_blank"
             rel="noopener noreferrer"
             className="lg"
           >
-            Resume
-          </a>
+            Wordigo
+          </Link>
         </div>
       </div>
     </nav>
