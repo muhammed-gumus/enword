@@ -1,46 +1,89 @@
 const { MongoClient } = require("mongodb");
-const express =: require("express")
+const express = require("express");
+const cors = require('cors');
 const dotenv = require("dotenv");
+const fs = require("fs");
+const path = require("path");
+const chokidar = require("chokidar");
+
 dotenv.config();
 const uri = process.env.MONGO_URI;
 
-const client = new MongoClient(uri);
+const app = express();
 
-async function run() {
+// Middleware
+app.use(cors());
+app.use(express.json());
+
+// Connect to MongoDB
+const client = new MongoClient(uri);
+const dbName = "wordDatabase"; // You can change the database name
+const collectionName = "words"; // You can change the collection name
+
+// Function to load data from JSON file and insert it into MongoDB
+async function loadData() {
   try {
-    // Connect to the Atlas cluster
+    // Read data from word.json
+    const filePath = path.join(__dirname, 'data', 'word.json');
+    const data = fs.readFileSync(filePath, 'utf8');
+    const words = JSON.parse(data);
+
+    // Connect to MongoDB
     await client.connect();
-    // Get the database and collection on which to run the operation
-    const db = client.db("gettingStarted");
-    const col = db.collection("people");
-    // Create new documents
-    const peopleDocuments = [
-      {
-        name: { first: "Alan", last: "Turing" },
-        birth: new Date(1912, 5, 23), // May 23, 1912
-        death: new Date(1954, 5, 7), // May 7, 1954
-        contribs: ["Turing machine", "Turing test", "Turingery"],
-        views: 1250000,
-      },
-      {
-        name: { first: "Grace", last: "Hopper" },
-        birth: new Date(1906, 12, 9), // Dec 9, 1906
-        death: new Date(1992, 1, 1), // Jan 1, 1992
-        contribs: ["Mark I", "UNIVAC", "COBOL"],
-        views: 3860000,
-      },
-    ];
-    // Insert the documents into the specified collection
-    const p = await col.insertMany(peopleDocuments);
-    // Find the document
-    const filter = { "name.last": "Turing" };
-    const document = await col.findOne(filter);
-    // Print results
-    console.log("Document found:\n" + JSON.stringify(document));
+    const db = client.db(dbName);
+    const collection = db.collection(collectionName);
+
+    // Insert only new documents
+    for (const word of words) {
+      const existing = await collection.findOne({ enWord: word.enWord });
+      if (!existing) {
+        await collection.insertOne(word);
+        console.log(`Inserted: ${word.enWord}`);
+      } else {
+        console.log(`Already exists: ${word.enWord}`);
+      }
+    }
   } catch (err) {
-    console.log(err.stack);
+    console.error("Error loading data:", err);
   } finally {
     await client.close();
   }
 }
-run().catch(console.dir);
+
+// Watch for changes in word.json
+const watcher = chokidar.watch(path.join(__dirname, 'data', 'word.json'), {
+  persistent: true,
+});
+
+watcher.on('change', () => {
+  console.log('word.json has been updated. Reloading data...');
+  loadData().catch(console.error);
+});
+
+// Route to get 10 random documents from MongoDB
+app.get("/words", async (req, res) => {
+  try {
+    await client.connect();
+    const db = client.db(dbName);
+    const collection = db.collection(collectionName);
+    
+    // Aggregation pipeline to get 10 random documents
+    const words = await collection.aggregate([
+      { $sample: { size: 10 } } // Randomly select 10 documents
+    ]).toArray();
+
+    res.json(words);
+  } catch (err) {
+    res.status(500).send(err.toString());
+  } finally {
+    await client.close();
+  }
+});
+
+// Start the server
+app.listen(3001, () => {
+  console.log("Server is running on port 3001");
+
+  // Initial load of data
+  loadData().catch(console.error);
+});

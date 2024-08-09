@@ -1,0 +1,417 @@
+[
+    {
+        "enWord": "time",
+        "trWord": "zaman",
+        "sentence": "Time flies when you're having fun."
+    },
+    {
+        "enWord": "person",
+        "trWord": "kişi",
+        "sentence": "She is a kind person."
+    },
+    {
+        "enWord": "year",
+        "trWord": "yıl",
+        "sentence": "This year has been full of surprises."
+    },
+    {
+        "enWord": "way",
+        "trWord": "yol",
+        "sentence": "There is no easy way to success."
+    },
+    {
+        "enWord": "day",
+        "trWord": "gün",
+        "sentence": "She exercises every day."
+    },
+    {
+        "enWord": "man",
+        "trWord": "adam",
+        "sentence": "The man is wearing a blue shirt."
+    },
+    {
+        "enWord": "thing",
+        "trWord": "şey",
+        "sentence": "That is the best thing I've ever seen."
+    },
+    {
+        "enWord": "woman",
+        "trWord": "kadın",
+        "sentence": "The woman smiled at me."
+    },
+    {
+        "enWord": "child",
+        "trWord": "çocuk",
+        "sentence": "The child was playing in the park."
+    },
+    {
+        "enWord": "world",
+        "trWord": "dünya",
+        "sentence": "The world is a big place."
+    },
+    {
+        "enWord": "life",
+        "trWord": "hayat",
+        "sentence": "Life is full of challenges."
+    },
+    {
+        "enWord": "hand",
+        "trWord": "el",
+        "sentence": "He held my hand tightly."
+    },
+    {
+        "enWord": "part",
+        "trWord": "bölüm",
+        "sentence": "This is my favorite part of the book."
+    },
+    {
+        "enWord": "eye",
+        "trWord": "göz",
+        "sentence": "She has beautiful blue eyes."
+    },
+    {
+        "enWord": "place",
+        "trWord": "yer",
+        "sentence": "This is a great place to relax."
+    },
+    {
+        "enWord": "work",
+        "trWord": "çalışma",
+        "sentence": "He is busy with work."
+    },
+    {
+        "enWord": "week",
+        "trWord": "hafta",
+        "sentence": "I'll see you next week."
+    },
+    {
+        "enWord": "case",
+        "trWord": "durum",
+        "sentence": "In this case, we should be careful."
+    },
+    {
+        "enWord": "point",
+        "trWord": "nokta",
+        "sentence": "He made a valid point."
+    },
+    {
+        "enWord": "company",
+        "trWord": "şirket",
+        "sentence": "She works for a big company."
+    },
+    {
+        "enWord": "number",
+        "trWord": "sayı",
+        "sentence": "Can you give me your phone number?"
+    },
+    {
+        "enWord": "group",
+        "trWord": "grup",
+        "sentence": "They formed a study group."
+    },
+    {
+        "enWord": "problem",
+        "trWord": "sorun",
+        "sentence": "We need to solve this problem."
+    },
+    {
+        "enWord": "fact",
+        "trWord": "gerçek",
+        "sentence": "The fact is, we are out of time."
+    },
+    {
+        "enWord": "home",
+        "trWord": "ev",
+        "sentence": "He finally returned home."
+    },
+    {
+        "enWord": "school",
+        "trWord": "okul",
+        "sentence": "The school is closed for the holidays."
+    },
+    {
+        "enWord": "state",
+        "trWord": "durum",
+        "sentence": "The state of the economy is improving."
+    },
+    {
+        "enWord": "family",
+        "trWord": "aile",
+        "sentence": "She loves spending time with her family."
+    },
+    {
+        "enWord": "student",
+        "trWord": "öğrenci",
+        "sentence": "The student asked a question."
+    },
+    {
+        "enWord": "group",
+        "trWord": "grup",
+        "sentence": "They are part of a study group."
+    },
+    {
+        "enWord": "country",
+        "trWord": "ülke",
+        "sentence": "She wants to travel to every country."
+    },
+    {
+        "enWord": "problem",
+        "trWord": "sorun",
+        "sentence": "We need to find a solution to this problem."
+    },
+    {
+        "enWord": "money",
+        "trWord": "para",
+        "sentence": "He is saving money for a new car."
+    },
+    {
+        "enWord": "example",
+        "trWord": "örnek",
+        "sentence": "Can you give me an example?"
+    },
+    {
+        "enWord": "question",
+        "trWord": "soru",
+        "sentence": "I have a question about the project."
+    },
+    {
+        "enWord": "study",
+        "trWord": "çalışma",
+        "sentence": "He is studying for his exams."
+    },
+    {
+        "enWord": "issue",
+        "trWord": "konu",
+        "sentence": "They discussed the issue in the meeting."
+    },
+    {
+        "enWord": "system",
+        "trWord": "sistem",
+        "sentence": "The computer system is down."
+    },
+    {
+        "enWord": "program",
+        "trWord": "program",
+        "sentence": "The program will start at 8 PM."
+    },
+    {
+        "enWord": "service",
+        "trWord": "hizmet",
+        "sentence": "The customer service was excellent."
+    },
+    {
+        "enWord": "company",
+        "trWord": "şirket",
+        "sentence": "She works at a tech company."
+    },
+    {
+        "enWord": "government",
+        "trWord": "hükümet",
+        "sentence": "The government passed a new law."
+    },
+    {
+        "enWord": "area",
+        "trWord": "alan",
+        "sentence": "This area is known for its beautiful parks."
+    },
+    {
+        "enWord": "business",
+        "trWord": "iş",
+        "sentence": "He started a new business last year."
+    },
+    {
+        "enWord": "hour",
+        "trWord": "saat",
+        "sentence": "We have only one hour left."
+    },
+    {
+        "enWord": "game",
+        "trWord": "oyun",
+        "sentence": "She won the game easily."
+    },
+    {
+        "enWord": "line",
+        "trWord": "çizgi",
+        "sentence": "Please stand in line."
+    },
+    {
+        "enWord": "end",
+        "trWord": "son",
+        "sentence": "The movie's end was surprising."
+    },
+    {
+        "enWord": "member",
+        "trWord": "üye",
+        "sentence": "He is a member of the local club."
+    },
+    {
+        "enWord": "law",
+        "trWord": "hukuk",
+        "sentence": "He studied law at university."
+    },
+    {
+        "enWord": "car",
+        "trWord": "araba",
+        "sentence": "She drives a red car."
+    },
+    {
+        "enWord": "city",
+        "trWord": "şehir",
+        "sentence": "The city is crowded during the festival."
+    },
+    {
+        "enWord": "community",
+        "trWord": "topluluk",
+        "sentence": "The community came together to help."
+    },
+    {
+        "enWord": "name",
+        "trWord": "isim",
+        "sentence": "What is your name?"
+    },
+    {
+        "enWord": "team",
+        "trWord": "takım",
+        "sentence": "The team won the championship."
+    },
+    {
+        "enWord": "minute",
+        "trWord": "dakika",
+        "sentence": "She arrived five minutes late."
+    },
+    {
+        "enWord": "idea",
+        "trWord": "fikir",
+        "sentence": "He had a brilliant idea."
+    },
+    {
+        "enWord": "body",
+        "trWord": "vücut",
+        "sentence": "Exercise is good for your body."
+    },
+    {
+        "enWord": "information",
+        "trWord": "bilgi",
+        "sentence": "The information was useful."
+    },
+    {
+        "enWord": "back",
+        "trWord": "geri",
+        "sentence": "He came back home after work."
+    },
+    {
+        "enWord": "parent",
+        "trWord": "ebeveyn",
+        "sentence": "His parents were proud of him."
+    },
+    {
+        "enWord": "face",
+        "trWord": "yüz",
+        "sentence": "She has a kind face."
+    },
+    {
+        "enWord": "others",
+        "trWord": "diğerleri",
+        "sentence": "Some liked it, while others didn't."
+    },
+    {
+        "enWord": "level",
+        "trWord": "seviye",
+        "sentence": "His skill level is impressive."
+    },
+    {
+        "enWord": "office",
+        "trWord": "ofis",
+        "sentence": "She works in an office downtown."
+    },
+    {
+        "enWord": "door",
+        "trWord": "kapı",
+        "sentence": "She knocked on the door."
+    },
+    {
+        "enWord": "health",
+        "trWord": "sağlık",
+        "sentence": "Health is more important than wealth."
+    },
+    {
+        "enWord": "person",
+        "trWord": "kişi",
+        "sentence": "He is a nice person."
+    },
+    {
+        "enWord": "art",
+        "trWord": "sanat",
+        "sentence": "She has a passion for art."
+    },
+    {
+        "enWord": "war",
+        "trWord": "savaş",
+        "sentence": "The war lasted for years."
+    },
+    {
+        "enWord": "history",
+        "trWord": "tarih",
+        "sentence": "He loves reading about history."
+    },
+    {
+        "enWord": "party",
+        "trWord": "parti",
+        "sentence": "They threw a big party for her birthday."
+    },
+    {
+        "enWord": "result",
+        "trWord": "sonuç",
+        "sentence": "The result was better than expected."
+    },
+    {
+        "enWord": "change",
+        "trWord": "değişim",
+        "sentence": "Change is inevitable in life."
+    },
+    {
+        "enWord": "morning",
+        "trWord": "sabah",
+        "sentence": "She wakes up early every morning."
+    },
+    {
+        "enWord": "reason",
+        "trWord": "neden",
+        "sentence": "He explained the reason for his absence."
+    },
+    {
+        "enWord": "research",
+        "trWord": "araştırma",
+        "sentence": "She is conducting research on climate change."
+    },
+    {
+        "enWord": "girl",
+        "trWord": "kız",
+        "sentence": "The girl was playing with her doll."
+    },
+    {
+        "enWord": "guy",
+        "trWord": "adam",
+        "sentence": "He's a funny guy."
+    },
+    {
+        "enWord": "moment",
+        "trWord": "an",
+        "sentence": "It was a memorable moment."
+    },
+    {
+        "enWord": "air",
+        "trWord": "hava",
+        "sentence": "The air is fresh and clean."
+    },
+    {
+        "enWord": "teacher",
+        "trWord": "öğretmen",
+        "sentence": "The teacher explained the lesson clearly."
+    },
+    {
+        "enWord": "force",
+        "trWord": "güç",
+        "sentence": "The wind's force was strong."
+    }
+]
