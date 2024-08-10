@@ -1,6 +1,6 @@
 const { MongoClient } = require("mongodb");
 const express = require("express");
-const cors = require('cors');
+const cors = require("cors");
 const dotenv = require("dotenv");
 const fs = require("fs");
 const path = require("path");
@@ -24,8 +24,8 @@ const collectionName = "words"; // You can change the collection name
 async function loadData() {
   try {
     // Read data from word.json
-    const filePath = path.join(__dirname, 'data', 'word.json');
-    const data = fs.readFileSync(filePath, 'utf8');
+    const filePath = path.join(__dirname, "data", "word.json");
+    const data = fs.readFileSync(filePath, "utf8");
     const words = JSON.parse(data);
 
     // Connect to MongoDB
@@ -51,12 +51,12 @@ async function loadData() {
 }
 
 // Watch for changes in word.json
-const watcher = chokidar.watch(path.join(__dirname, 'data', 'word.json'), {
+const watcher = chokidar.watch(path.join(__dirname, "data", "word.json"), {
   persistent: true,
 });
 
-watcher.on('change', () => {
-  console.log('word.json has been updated. Reloading data...');
+watcher.on("change", () => {
+  console.log("word.json has been updated. Reloading data...");
   loadData().catch(console.error);
 });
 
@@ -66,17 +66,17 @@ app.get("/words", async (req, res) => {
     await client.connect();
     const db = client.db(dbName);
     const collection = db.collection(collectionName);
-    
+
     // Aggregation pipeline to get 10 random documents
-    const words = await collection.aggregate([
-      { $sample: { size: 10 } } // Randomly select 10 documents
-    ]).toArray();
+    const words = await collection
+      .aggregate([
+        { $sample: { size: 10 } }, // Randomly select 10 documents
+      ])
+      .toArray();
 
     res.json(words);
   } catch (err) {
     res.status(500).send(err.toString());
-  } finally {
-    await client.close();
   }
 });
 
