@@ -12,7 +12,7 @@ const uri = process.env.MONGO_URI;
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors());  // Tüm domainlere izin verir
 app.use(express.json());
 
 // Connect to MongoDB
