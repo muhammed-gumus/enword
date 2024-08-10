@@ -1,7 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
 import { Word } from "@/app/types/wordTypes";
-import ErrorComponent from "@/components/ErrorComponent";
 import LoadingComponent from "@/components/LoadingComponent";
 
 const WordCard: React.FC = () => {
@@ -12,7 +11,9 @@ const WordCard: React.FC = () => {
   useEffect(() => {
     const fetchWords = async () => {
       try {
-        const response = await fetch("http://localhost:3001/words");
+        const response = await fetch(
+          `${process.env.NEXT_PUBLIC_BACKEND_URL}/words`
+        );
         if (!response.ok) {
           throw new Error("Network response was not ok");
         }
@@ -31,9 +32,9 @@ const WordCard: React.FC = () => {
     return <LoadingComponent />;
   }
 
-  if (error) {
-    return <ErrorComponent />;
-  }
+  // if (error) {
+  //   return <ErrorComponent />;
+  // }
 
   return (
     <div className="flex flex-col items-center justify-center mt-24 p-4 min-h-screen">
@@ -45,16 +46,28 @@ const WordCard: React.FC = () => {
           >
             <div className="flex flex-col gap-4">
               <div className="flex flex-col mb-4">
-                <h3 className="text-xl md:text-2xl font-semibold text-blue-600">English</h3>
-                <p className="text-lg md:text-xl text-gray-800 mt-1">{word.enWord}</p>
+                <h3 className="text-xl md:text-2xl font-semibold text-blue-600">
+                  English
+                </h3>
+                <p className="text-lg md:text-xl text-gray-800 mt-1">
+                  {word.enWord}
+                </p>
               </div>
               <div className="flex flex-col mb-4">
-                <h3 className="text-xl md:text-2xl font-semibold text-green-600">Turkish</h3>
-                <p className="text-lg md:text-xl text-gray-800 mt-1">{word.trWord}</p>
+                <h3 className="text-xl md:text-2xl font-semibold text-green-600">
+                  Turkish
+                </h3>
+                <p className="text-lg md:text-xl text-gray-800 mt-1">
+                  {word.trWord}
+                </p>
               </div>
               <div className="flex flex-col">
-                <h3 className="text-xl md:text-2xl font-semibold text-purple-600">Example Sentence</h3>
-                <p className="text-lg md:text-xl text-gray-800 mt-1">{word.sentence}</p>
+                <h3 className="text-xl md:text-2xl font-semibold text-purple-600">
+                  Example Sentence
+                </h3>
+                <p className="text-lg md:text-xl text-gray-800 mt-1">
+                  {word.sentence}
+                </p>
               </div>
             </div>
           </div>
