@@ -1,6 +1,4 @@
 "use client";
-import { useEffect, useState } from "react";
-import Image from "next/image";
 
 const WordCard: React.FC = () => {
   return (
@@ -14,7 +12,7 @@ const WordCard: React.FC = () => {
       /> */}
 
       <button className="flex flex-row items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-black bg-white px-6 py-2 font-semibold text-black transition-all duration-300 hover:translate-x-[-4px] hover:translate-y-[-4px] hover:rounded-md hover:shadow-[4px_4px_0px_black] active:translate-x-[0px] active:translate-y-[0px] active:rounded-2xl active:shadow-none">
-        Let's memorize it
+        Let`s memorize it
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 20 20"
