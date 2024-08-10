@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "root": "./services/backend",
+    "framework": "nodejs"
+  }
+}
