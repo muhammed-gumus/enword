@@ -1,6 +1,6 @@
-# Memory Word - English Word Memorization App
+# EnWord - English Word Memorization App
 
-Memory Word is a simple yet effective English word memorization application designed to help users improve their vocabulary daily. The app provides 10 random English words each day, along with their Turkish translations. To reinforce learning, the app also offers example sentences for each word, helping users understand the usage and context of the words.
+EnWord is a simple yet effective English word memorization application designed to help users improve their vocabulary daily. The app provides 10 random English words each day, along with their Turkish translations. To reinforce learning, the app also offers example sentences for each word, helping users understand the usage and context of the words.
 
 ## Features
 
