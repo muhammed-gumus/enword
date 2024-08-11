@@ -12,7 +12,11 @@ const uri = process.env.MONGO_URI;
 const app = express();
 
 // Middleware
-app.use(cors());
+const options = {
+  origin: ["https://enword.vercel.app"],
+  methods: "GET, PUT, DELETE, UPDATE, FETCH, POST",
+};
+app.use(cors(options));
 // Tüm domainlere izin verir
 app.use(express.json());
 
