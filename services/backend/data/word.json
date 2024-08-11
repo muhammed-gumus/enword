@@ -413,5 +413,1735 @@
         "enWord": "force",
         "trWord": "güç",
         "sentence": "The wind's force was strong."
+    },
+    {
+        "enWord": "example",
+        "trWord": "örnek",
+        "sentence": "This is an example of a well-written essay."
+    },
+    {
+        "enWord": "story",
+        "trWord": "hikaye",
+        "sentence": "She told an interesting story about her trip."
+    },
+    {
+        "enWord": "system",
+        "trWord": "sistem",
+        "sentence": "The new system will improve efficiency."
+    },
+    {
+        "enWord": "price",
+        "trWord": "fiyat",
+        "sentence": "The price of the car is too high."
+    },
+    {
+        "enWord": "education",
+        "trWord": "eğitim",
+        "sentence": "Education is important for personal growth."
+    },
+    {
+        "enWord": "policy",
+        "trWord": "politika",
+        "sentence": "The company's policy on privacy is strict."
+    },
+    {
+        "enWord": "process",
+        "trWord": "süreç",
+        "sentence": "The hiring process took two weeks."
+    },
+    {
+        "enWord": "music",
+        "trWord": "müzik",
+        "sentence": "She loves listening to classical music."
+    },
+    {
+        "enWord": "market",
+        "trWord": "pazar",
+        "sentence": "The market opens early on Sundays."
+    },
+    {
+        "enWord": "computer",
+        "trWord": "bilgisayar",
+        "sentence": "He bought a new computer for work."
+    },
+    {
+        "enWord": "evidence",
+        "trWord": "delil",
+        "sentence": "There was no evidence to support the claim."
+    },
+    {
+        "enWord": "design",
+        "trWord": "tasarım",
+        "sentence": "The design of the building is modern."
+    },
+    {
+        "enWord": "product",
+        "trWord": "ürün",
+        "sentence": "This product is known for its durability."
+    },
+    {
+        "enWord": "factor",
+        "trWord": "faktör",
+        "sentence": "The weather was a major factor in the delay."
+    },
+    {
+        "enWord": "attention",
+        "trWord": "dikkat",
+        "sentence": "The teacher asked for everyone's attention."
+    },
+    {
+        "enWord": "scene",
+        "trWord": "sahne",
+        "sentence": "The crime scene was quickly secured by police."
+    },
+    {
+        "enWord": "role",
+        "trWord": "rol",
+        "sentence": "He played the leading role in the movie."
+    },
+    {
+        "enWord": "strategy",
+        "trWord": "strateji",
+        "sentence": "Their strategy for the game was effective."
+    },
+    {
+        "enWord": "technology",
+        "trWord": "teknoloji",
+        "sentence": "Technology has advanced rapidly in recent years."
+    },
+    {
+        "enWord": "discussion",
+        "trWord": "tartışma",
+        "sentence": "They had a heated discussion about the issue."
+    },
+    {
+        "enWord": "material",
+        "trWord": "malzeme",
+        "sentence": "The material used in the construction is durable."
+    },
+    {
+        "enWord": "population",
+        "trWord": "nüfus",
+        "sentence": "The city's population is growing rapidly."
+    },
+    {
+        "enWord": "event",
+        "trWord": "etkinlik",
+        "sentence": "The event was well-organized and attended by many."
+    },
+    {
+        "enWord": "method",
+        "trWord": "yöntem",
+        "sentence": "This method is proven to be effective."
+    },
+    {
+        "enWord": "investment",
+        "trWord": "yatırım",
+        "sentence": "His investment in real estate paid off."
+    },
+    {
+        "enWord": "environment",
+        "trWord": "çevre",
+        "sentence": "We must protect the environment for future generations."
+    },
+    {
+        "enWord": "income",
+        "trWord": "gelir",
+        "sentence": "Her income has increased over the years."
+    },
+    {
+        "enWord": "opportunity",
+        "trWord": "fırsat",
+        "sentence": "This job offers a great opportunity for advancement."
+    },
+    {
+        "enWord": "individual",
+        "trWord": "birey",
+        "sentence": "Each individual is responsible for their actions."
+    },
+    {
+        "enWord": "article",
+        "trWord": "makale",
+        "sentence": "He wrote an article for the local newspaper."
+    },
+    {
+        "enWord": "benefit",
+        "trWord": "fayda",
+        "sentence": "There are many benefits to exercising regularly."
+    },
+    {
+        "enWord": "structure",
+        "trWord": "yapı",
+        "sentence": "The structure of the organization is clear."
+    },
+    {
+        "enWord": "skill",
+        "trWord": "beceri",
+        "sentence": "He has a skill in woodworking."
+    },
+    {
+        "enWord": "resource",
+        "trWord": "kaynak",
+        "sentence": "Water is a precious resource."
+    },
+    {
+        "enWord": "campaign",
+        "trWord": "kampanya",
+        "sentence": "The campaign was successful in raising awareness."
+    },
+    {
+        "enWord": "customer",
+        "trWord": "müşteri",
+        "sentence": "The customer service at the store is excellent."
+    },
+    {
+        "enWord": "version",
+        "trWord": "versiyon",
+        "sentence": "The latest version of the software has new features."
+    },
+    {
+        "enWord": "software",
+        "trWord": "yazılım",
+        "sentence": "He specializes in developing custom software."
+    },
+    {
+        "enWord": "strategy",
+        "trWord": "strateji",
+        "sentence": "Their strategy in the game was flawless."
+    },
+    {
+        "enWord": "energy",
+        "trWord": "enerji",
+        "sentence": "Solar energy is a renewable resource."
+    },
+    {
+        "enWord": "risk",
+        "trWord": "risk",
+        "sentence": "He took a big risk investing in the stock market."
+    },
+    {
+        "enWord": "advice",
+        "trWord": "tavsiye",
+        "sentence": "He gave me some good advice about managing my time."
+    },
+    {
+        "enWord": "agreement",
+        "trWord": "anlaşma",
+        "sentence": "They reached an agreement after several hours of negotiation."
+    },
+    {
+        "enWord": "analysis",
+        "trWord": "analiz",
+        "sentence": "The analysis of the data took longer than expected."
+    },
+    {
+        "enWord": "approach",
+        "trWord": "yaklaşım",
+        "sentence": "His approach to the problem was innovative."
+    },
+    {
+        "enWord": "attempt",
+        "trWord": "girişim",
+        "sentence": "She made an attempt to climb the mountain."
+    },
+    {
+        "enWord": "background",
+        "trWord": "arka plan",
+        "sentence": "Her background in engineering helped her solve the issue."
+    },
+    {
+        "enWord": "behavior",
+        "trWord": "davranış",
+        "sentence": "The teacher praised the student's good behavior."
+    },
+    {
+        "enWord": "concept",
+        "trWord": "kavram",
+        "sentence": "The concept of time travel fascinates many people."
+    },
+    {
+        "enWord": "condition",
+        "trWord": "durum",
+        "sentence": "The condition of the car was better than expected."
+    },
+    {
+        "enWord": "decision",
+        "trWord": "karar",
+        "sentence": "She made a quick decision to accept the job offer."
+    },
+    {
+        "enWord": "development",
+        "trWord": "gelişim",
+        "sentence": "The development of the new app is on schedule."
+    },
+    {
+        "enWord": "difference",
+        "trWord": "fark",
+        "sentence": "There is a big difference between the two products."
+    },
+    {
+        "enWord": "effort",
+        "trWord": "çaba",
+        "sentence": "His effort to improve his grades paid off."
+    },
+    {
+        "enWord": "experience",
+        "trWord": "deneyim",
+        "sentence": "She has years of experience in the industry."
+    },
+    {
+        "enWord": "focus",
+        "trWord": "odak",
+        "sentence": "The main focus of the meeting was on marketing strategies."
+    },
+    {
+        "enWord": "goal",
+        "trWord": "hedef",
+        "sentence": "His goal is to run a marathon next year."
+    },
+    {
+        "enWord": "growth",
+        "trWord": "büyüme",
+        "sentence": "The company has seen significant growth this quarter."
+    },
+    {
+        "enWord": "impact",
+        "trWord": "etki",
+        "sentence": "The impact of the new law will be felt immediately."
+    },
+    {
+        "enWord": "increase",
+        "trWord": "artış",
+        "sentence": "There was an increase in sales during the holiday season."
+    },
+    {
+        "enWord": "industry",
+        "trWord": "sanayi",
+        "sentence": "The automotive industry is crucial to the economy."
+    },
+    {
+        "enWord": "knowledge",
+        "trWord": "bilgi",
+        "sentence": "Her knowledge of the subject is impressive."
+    },
+    {
+        "enWord": "language",
+        "trWord": "dil",
+        "sentence": "Learning a new language can be challenging."
+    },
+    {
+        "enWord": "limit",
+        "trWord": "sınır",
+        "sentence": "They set a limit on the number of participants."
+    },
+    {
+        "enWord": "management",
+        "trWord": "yönetim",
+        "sentence": "The management team is working on a new strategy."
+    },
+    {
+        "enWord": "network",
+        "trWord": "ağ",
+        "sentence": "He has a strong professional network."
+    },
+    {
+        "enWord": "option",
+        "trWord": "seçenek",
+        "sentence": "You have the option to choose between two plans."
+    },
+    {
+        "enWord": "performance",
+        "trWord": "performans",
+        "sentence": "Her performance in the play was outstanding."
+    },
+    {
+        "enWord": "potential",
+        "trWord": "potansiyel",
+        "sentence": "He has the potential to be a great leader."
+    },
+    {
+        "enWord": "project",
+        "trWord": "proje",
+        "sentence": "The project was completed on time and within budget."
+    },
+    {
+        "enWord": "quality",
+        "trWord": "kalite",
+        "sentence": "The quality of the product exceeded expectations."
+    },
+    {
+        "enWord": "reaction",
+        "trWord": "tepki",
+        "sentence": "His reaction to the news was surprising."
+    },
+    {
+        "enWord": "requirement",
+        "trWord": "gereksinim",
+        "sentence": "Meeting the requirement for the job was not easy."
+    },
+    {
+        "enWord": "result",
+        "trWord": "sonuç",
+        "sentence": "The result of the test was positive."
+    },
+    {
+        "enWord": "solution",
+        "trWord": "çözüm",
+        "sentence": "They found a solution to the problem."
+    },
+    {
+        "enWord": "structure",
+        "trWord": "yapı",
+        "sentence": "The structure of the building is solid."
+    },
+    {
+        "enWord": "support",
+        "trWord": "destek",
+        "sentence": "She received a lot of support from her family."
+    },
+    {
+        "enWord": "trend",
+        "trWord": "eğilim",
+        "sentence": "There is a growing trend towards sustainable living."
+    },
+    {
+        "enWord": "understanding",
+        "trWord": "anlayış",
+        "sentence": "His understanding of the subject is deep."
+    },
+    {
+        "enWord": "value",
+        "trWord": "değer",
+        "sentence": "The value of the house has increased over time."
+    },
+    {
+        "enWord": "view",
+        "trWord": "görüş",
+        "sentence": "Her view on the issue is quite different from mine."
+    },
+    {
+        "enWord": "achievement",
+        "trWord": "başarı",
+        "sentence": "Winning the award was a significant achievement for her."
+    },
+    {
+        "enWord": "adventure",
+        "trWord": "macera",
+        "sentence": "They went on an adventure to explore the mountains."
+    },
+    {
+        "enWord": "benefit",
+        "trWord": "yarar",
+        "sentence": "The new policy will benefit all employees."
+    },
+    {
+        "enWord": "challenge",
+        "trWord": "zorluk",
+        "sentence": "Climbing the mountain was a real challenge."
+    },
+    {
+        "enWord": "community",
+        "trWord": "topluluk",
+        "sentence": "The local community organized a fundraiser for charity."
+    },
+    {
+        "enWord": "conference",
+        "trWord": "konferans",
+        "sentence": "She attended an international conference on technology."
+    },
+    {
+        "enWord": "contribution",
+        "trWord": "katkı",
+        "sentence": "His contribution to the project was invaluable."
+    },
+    {
+        "enWord": "data",
+        "trWord": "veri",
+        "sentence": "The data collected will help in making informed decisions."
+    },
+    {
+        "enWord": "difference",
+        "trWord": "farklılık",
+        "sentence": "There is a noticeable difference between the two designs."
+    },
+    {
+        "enWord": "emphasis",
+        "trWord": "vurgulama",
+        "sentence": "The speaker placed emphasis on the importance of teamwork."
+    },
+    {
+        "enWord": "equipment",
+        "trWord": "donanım",
+        "sentence": "The laboratory is equipped with state-of-the-art equipment."
+    },
+    {
+        "enWord": "facility",
+        "trWord": "tesis",
+        "sentence": "The new sports facility is open to the public."
+    },
+    {
+        "enWord": "feedback",
+        "trWord": "geri bildirim",
+        "sentence": "She received positive feedback on her presentation."
+    },
+    {
+        "enWord": "feature",
+        "trWord": "özellik",
+        "sentence": "The new software has many useful features."
+    },
+    {
+        "enWord": "function",
+        "trWord": "fonksiyon",
+        "sentence": "The function of the device is to measure temperature."
+    },
+    {
+        "enWord": "goal",
+        "trWord": "amaç",
+        "sentence": "Setting clear goals is essential for success."
+    },
+    {
+        "enWord": "impact",
+        "trWord": "etki",
+        "sentence": "The impact of the new policy was immediately felt."
+    },
+    {
+        "enWord": "investment",
+        "trWord": "yatırım",
+        "sentence": "The investment in renewable energy is a positive step."
+    },
+    {
+        "enWord": "journal",
+        "trWord": "dergi",
+        "sentence": "He published an article in a scientific journal."
+    },
+    {
+        "enWord": "knowledge",
+        "trWord": "bilgi",
+        "sentence": "Her knowledge of the subject was evident during the discussion."
+    },
+    {
+        "enWord": "method",
+        "trWord": "yöntem",
+        "sentence": "They used a new method to improve efficiency."
+    },
+    {
+        "enWord": "network",
+        "trWord": "ağ",
+        "sentence": "Building a professional network can open up new opportunities."
+    },
+    {
+        "enWord": "objective",
+        "trWord": "hedef",
+        "sentence": "The main objective of the project is to reduce costs."
+    },
+    {
+        "enWord": "option",
+        "trWord": "seçenek",
+        "sentence": "You have several options to choose from."
+    },
+    {
+        "enWord": "performance",
+        "trWord": "performans",
+        "sentence": "The performance of the team was impressive."
+    },
+    {
+        "enWord": "policy",
+        "trWord": "politika",
+        "sentence": "The new policy will affect all employees."
+    },
+    {
+        "enWord": "potential",
+        "trWord": "potansiyel",
+        "sentence": "She has great potential for growth in the company."
+    },
+    {
+        "enWord": "presentation",
+        "trWord": "sunum",
+        "sentence": "Her presentation was well-received by the audience."
+    },
+    {
+        "enWord": "problem",
+        "trWord": "sorun",
+        "sentence": "They encountered a problem with the software update."
+    },
+    {
+        "enWord": "project",
+        "trWord": "proje",
+        "sentence": "The project is scheduled to start next month."
+    },
+    {
+        "enWord": "purpose",
+        "trWord": "amaç",
+        "sentence": "The purpose of the meeting was to finalize the details."
+    },
+    {
+        "enWord": "requirement",
+        "trWord": "gereksinim",
+        "sentence": "Meeting the requirement for the course was challenging."
+    },
+    {
+        "enWord": "research",
+        "trWord": "araştırma",
+        "sentence": "The research findings were published in a leading journal."
+    },
+    {
+        "enWord": "responsibility",
+        "trWord": "sorumluluk",
+        "sentence": "He took on the responsibility of managing the project."
+    },
+    {
+        "enWord": "result",
+        "trWord": "sonuç",
+        "sentence": "The result of the test was positive."
+    },
+    {
+        "enWord": "service",
+        "trWord": "hizmet",
+        "sentence": "The customer service at the store was excellent."
+    },
+    {
+        "enWord": "solution",
+        "trWord": "çözüm",
+        "sentence": "They found a solution to the problem quickly."
+    },
+    {
+        "enWord": "strategy",
+        "trWord": "strateji",
+        "sentence": "Developing a solid strategy is crucial for success."
+    },
+    {
+        "enWord": "system",
+        "trWord": "sistem",
+        "sentence": "The new system has improved workflow efficiency."
+    },
+    {
+        "enWord": "technology",
+        "trWord": "teknoloji",
+        "sentence": "Advancements in technology are rapidly changing the industry."
+    },
+    {
+        "enWord": "training",
+        "trWord": "eğitim",
+        "sentence": "The company offers training programs for new employees."
+    },
+    {
+        "enWord": "value",
+        "trWord": "değer",
+        "sentence": "The value of customer feedback cannot be underestimated."
+    },
+    {
+        "enWord": "variable",
+        "trWord": "değişken",
+        "sentence": "The variable costs need to be monitored closely."
+    },
+    {
+        "enWord": "abundance",
+        "trWord": "bolluk",
+        "sentence": "The garden was full of flowers in abundance."
+    },
+    {
+        "enWord": "achievement",
+        "trWord": "başarı",
+        "sentence": "Graduating with honors was a great achievement for him."
+    },
+    {
+        "enWord": "analysis",
+        "trWord": "analiz",
+        "sentence": "The analysis of the market trends was crucial for the report."
+    },
+    {
+        "enWord": "capacity",
+        "trWord": "kapasite",
+        "sentence": "The stadium has a seating capacity of 50,000 people."
+    },
+    {
+        "enWord": "challenge",
+        "trWord": "zorluk",
+        "sentence": "Completing the project on time was a significant challenge."
+    },
+    {
+        "enWord": "collaboration",
+        "trWord": "iş birliği",
+        "sentence": "The project was successful due to excellent collaboration among the team members."
+    },
+    {
+        "enWord": "concept",
+        "trWord": "kavram",
+        "sentence": "Understanding the concept of renewable energy is important for environmental conservation."
+    },
+    {
+        "enWord": "consumption",
+        "trWord": "tüketim",
+        "sentence": "Reducing energy consumption is key to saving costs."
+    },
+    {
+        "enWord": "contribution",
+        "trWord": "katkı",
+        "sentence": "Her contribution to the research was invaluable."
+    },
+    {
+        "enWord": "cooperation",
+        "trWord": "iş birliği",
+        "sentence": "The success of the mission depended on international cooperation."
+    },
+    {
+        "enWord": "definition",
+        "trWord": "tanım",
+        "sentence": "The definition of success varies from person to person."
+    },
+    {
+        "enWord": "detection",
+        "trWord": "tespit",
+        "sentence": "Early detection of the problem prevented a major failure."
+    },
+    {
+        "enWord": "discovery",
+        "trWord": "keşif",
+        "sentence": "The discovery of the new species was a breakthrough in biology."
+    },
+    {
+        "enWord": "distribution",
+        "trWord": "dağıtım",
+        "sentence": "The distribution of the product was handled efficiently."
+    },
+    {
+        "enWord": "element",
+        "trWord": "öğe",
+        "sentence": "The design includes all the essential elements for functionality."
+    },
+    {
+        "enWord": "enhancement",
+        "trWord": "geliştirme",
+        "sentence": "The enhancement of the software improved its performance."
+    },
+    {
+        "enWord": "evidence",
+        "trWord": "kanıt",
+        "sentence": "The evidence presented in court was compelling."
+    },
+    {
+        "enWord": "factor",
+        "trWord": "faktör",
+        "sentence": "Several factors contributed to the success of the project."
+    },
+    {
+        "enWord": "functionality",
+        "trWord": "işlevsellik",
+        "sentence": "The new app's functionality is user-friendly and intuitive."
+    },
+    {
+        "enWord": "implementation",
+        "trWord": "uygulama",
+        "sentence": "The implementation of the new policy began last month."
+    },
+    {
+        "enWord": "improvement",
+        "trWord": "gelişme",
+        "sentence": "There has been a significant improvement in customer satisfaction."
+    },
+    {
+        "enWord": "innovation",
+        "trWord": "yenilik",
+        "sentence": "Innovation is key to staying competitive in the market."
+    },
+    {
+        "enWord": "investment",
+        "trWord": "yatırım",
+        "sentence": "The investment in technology has paid off for the company."
+    },
+    {
+        "enWord": "methodology",
+        "trWord": "yöntem",
+        "sentence": "The research methodology used was comprehensive and thorough."
+    },
+    {
+        "enWord": "networking",
+        "trWord": "ağ kurma",
+        "sentence": "Effective networking can open up new career opportunities."
+    },
+    {
+        "enWord": "observation",
+        "trWord": "gözlem",
+        "sentence": "The observation of the behavior provided valuable insights."
+    },
+    {
+        "enWord": "perspective",
+        "trWord": "bakış açısı",
+        "sentence": "Her perspective on the issue was enlightening."
+    },
+    {
+        "enWord": "procedure",
+        "trWord": "prosedür",
+        "sentence": "The procedure for submitting a claim is straightforward."
+    },
+    {
+        "enWord": "progress",
+        "trWord": "ilerleme",
+        "sentence": "The progress of the project was reviewed regularly."
+    },
+    {
+        "enWord": "quality",
+        "trWord": "kalite",
+        "sentence": "Maintaining high quality is essential for customer satisfaction."
+    },
+    {
+        "enWord": "recommendation",
+        "trWord": "öneri",
+        "sentence": "The recommendation from the expert was to increase the budget."
+    },
+    {
+        "enWord": "refinement",
+        "trWord": "geliştirme",
+        "sentence": "The refinement of the product design took several months."
+    },
+    {
+        "enWord": "reliability",
+        "trWord": "güvenilirlik",
+        "sentence": "The reliability of the service is crucial for customer trust."
+    },
+    {
+        "enWord": "requirement",
+        "trWord": "gereksinim",
+        "sentence": "Meeting the requirement for the certification was challenging."
+    },
+    {
+        "enWord": "research",
+        "trWord": "araştırma",
+        "sentence": "The research was conducted to understand consumer behavior."
+    },
+    {
+        "enWord": "response",
+        "trWord": "yanıt",
+        "sentence": "The response to the survey was overwhelmingly positive."
+    },
+    {
+        "enWord": "strategy",
+        "trWord": "strateji",
+        "sentence": "Developing a clear strategy is essential for achieving goals."
+    },
+    {
+        "enWord": "structure",
+        "trWord": "yapı",
+        "sentence": "The structure of the organization supports efficient communication."
+    },
+    {
+        "enWord": "success",
+        "trWord": "başarı",
+        "sentence": "The success of the campaign exceeded expectations."
+    },
+    {
+        "enWord": "theory",
+        "trWord": "teori",
+        "sentence": "The theory was based on extensive research and experimentation."
+    },
+    {
+        "enWord": "variable",
+        "trWord": "değişken",
+        "sentence": "Controlling all variables is important for accurate results."
+    },
+    {
+        "enWord": "visibility",
+        "trWord": "görünürlük",
+        "sentence": "Increasing the visibility of the brand was a key goal."
+    },
+    {
+        "enWord": "warranty",
+        "trWord": "garanti",
+        "sentence": "The product comes with a two-year warranty."
+    },
+    {
+        "enWord": "workshop",
+        "trWord": "atölye",
+        "sentence": "The workshop provided hands-on training for new techniques."
+    },
+    {
+        "enWord": "adaptation",
+        "trWord": "uyum",
+        "sentence": "The adaptation of the novel into a film was successful."
+    },
+    {
+        "enWord": "advantage",
+        "trWord": "avantaj",
+        "sentence": "Having a good education is a great advantage in the job market."
+    },
+    {
+        "enWord": "approach",
+        "trWord": "yaklaşım",
+        "sentence": "His approach to solving the problem was innovative."
+    },
+    {
+        "enWord": "assessment",
+        "trWord": "değerlendirme",
+        "sentence": "The assessment of the project's progress was completed."
+    },
+    {
+        "enWord": "association",
+        "trWord": "dernek",
+        "sentence": "She is a member of the environmental association."
+    },
+    {
+        "enWord": "beneficiary",
+        "trWord": "yararlanıcı",
+        "sentence": "The local community was the primary beneficiary of the charity event."
+    },
+    {
+        "enWord": "collaboration",
+        "trWord": "iş birliği",
+        "sentence": "The collaboration between the two companies led to a successful product launch."
+    },
+    {
+        "enWord": "consequence",
+        "trWord": "sonuç",
+        "sentence": "The consequence of ignoring the rules was a heavy fine."
+    },
+    {
+        "enWord": "contract",
+        "trWord": "sözleşme",
+        "sentence": "They signed a contract to finalize the terms of the agreement."
+    },
+    {
+        "enWord": "criteria",
+        "trWord": "kriterler",
+        "sentence": "The selection criteria for the award were clearly defined."
+    },
+    {
+        "enWord": "declaration",
+        "trWord": "beyan",
+        "sentence": "The declaration of independence was a significant historical event."
+    },
+    {
+        "enWord": "distribution",
+        "trWord": "dağıtım",
+        "sentence": "The distribution of the goods was managed efficiently."
+    },
+    {
+        "enWord": "education",
+        "trWord": "eğitim",
+        "sentence": "Education is essential for personal and professional development."
+    },
+    {
+        "enWord": "evaluation",
+        "trWord": "değerlendirme",
+        "sentence": "The evaluation of the project's impact was conducted thoroughly."
+    },
+    {
+        "enWord": "facility",
+        "trWord": "tesis",
+        "sentence": "The new facility provides modern amenities for employees."
+    },
+    {
+        "enWord": "feedback",
+        "trWord": "geri bildirim",
+        "sentence": "The feedback from users was used to improve the software."
+    },
+    {
+        "enWord": "goal",
+        "trWord": "hedef",
+        "sentence": "Setting clear goals is important for achieving success."
+    },
+    {
+        "enWord": "implementation",
+        "trWord": "uygulama",
+        "sentence": "The implementation of the new strategy began last quarter."
+    },
+    {
+        "enWord": "initiative",
+        "trWord": "öncülük",
+        "sentence": "The initiative aimed to promote sustainability in the community."
+    },
+    {
+        "enWord": "innovation",
+        "trWord": "yenilik",
+        "sentence": "Innovation drives progress and improves quality of life."
+    },
+    {
+        "enWord": "involvement",
+        "trWord": "katılım",
+        "sentence": "Her involvement in the project was crucial for its success."
+    },
+    {
+        "enWord": "maintenance",
+        "trWord": "bakım",
+        "sentence": "Regular maintenance of equipment is necessary for its longevity."
+    },
+    {
+        "enWord": "management",
+        "trWord": "yönetim",
+        "sentence": "Effective management is key to running a successful business."
+    },
+    {
+        "enWord": "obstacle",
+        "trWord": "engel",
+        "sentence": "They overcame several obstacles during the project."
+    },
+    {
+        "enWord": "operation",
+        "trWord": "operasyon",
+        "sentence": "The operation of the machinery was carefully monitored."
+    },
+    {
+        "enWord": "performance",
+        "trWord": "performans",
+        "sentence": "The team's performance exceeded all expectations."
+    },
+    {
+        "enWord": "procedure",
+        "trWord": "prosedür",
+        "sentence": "The procedure for handling complaints was outlined clearly."
+    },
+    {
+        "enWord": "production",
+        "trWord": "üretim",
+        "sentence": "The production line was updated to increase efficiency."
+    },
+    {
+        "enWord": "promotion",
+        "trWord": "terfi",
+        "sentence": "She received a promotion due to her outstanding performance."
+    },
+    {
+        "enWord": "publication",
+        "trWord": "yayın",
+        "sentence": "The publication of the research findings was well-received."
+    },
+    {
+        "enWord": "recognition",
+        "trWord": "tanınma",
+        "sentence": "The company received recognition for its innovative solutions."
+    },
+    {
+        "enWord": "reduction",
+        "trWord": "azaltma",
+        "sentence": "There was a significant reduction in costs after the changes."
+    },
+    {
+        "enWord": "relationship",
+        "trWord": "ilişki",
+        "sentence": "Building strong relationships with clients is vital for success."
+    },
+    {
+        "enWord": "requirement",
+        "trWord": "gereksinim",
+        "sentence": "The requirement for the job was a degree in engineering."
+    },
+    {
+        "enWord": "research",
+        "trWord": "araştırma",
+        "sentence": "The research focused on new methods for renewable energy."
+    },
+    {
+        "enWord": "resource",
+        "trWord": "kaynak",
+        "sentence": "The project utilized various resources to achieve its goals."
+    },
+    {
+        "enWord": "solution",
+        "trWord": "çözüm",
+        "sentence": "The solution to the issue was implemented quickly."
+    },
+    {
+        "enWord": "strategy",
+        "trWord": "strateji",
+        "sentence": "The marketing strategy was revised to better target the audience."
+    },
+    {
+        "enWord": "support",
+        "trWord": "destek",
+        "sentence": "The team received support from the management for the project."
+    },
+    {
+        "enWord": "system",
+        "trWord": "sistem",
+        "sentence": "The new system improved the efficiency of the workflow."
+    },
+    {
+        "enWord": "technology",
+        "trWord": "teknoloji",
+        "sentence": "Advancements in technology are shaping the future of industries."
+    },
+    {
+        "enWord": "training",
+        "trWord": "eğitim",
+        "sentence": "The training program was designed to enhance employees' skills."
+    },
+    {
+        "enWord": "transformation",
+        "trWord": "dönüşüm",
+        "sentence": "The company underwent a major transformation to improve performance."
+    },
+    {
+        "enWord": "variable",
+        "trWord": "değişken",
+        "sentence": "The results were affected by several variable factors."
+    },
+    {
+        "enWord": "verification",
+        "trWord": "doğrulama",
+        "sentence": "The verification process ensures the accuracy of the data."
+    },
+    {
+        "enWord": "vision",
+        "trWord": "vizyon",
+        "sentence": "The company's vision for the future includes global expansion."
+    },
+    {
+        "enWord": "willingness",
+        "trWord": "isteklilik",
+        "sentence": "Her willingness to help made her a valuable team member."
+    },
+    {
+        "enWord": "acceleration",
+        "trWord": "ivme",
+        "sentence": "The car's acceleration improved significantly after the upgrade."
+    },
+    {
+        "enWord": "advancement",
+        "trWord": "ilerleme",
+        "sentence": "The advancement in medical technology has saved many lives."
+    },
+    {
+        "enWord": "analysis",
+        "trWord": "analiz",
+        "sentence": "A detailed analysis of the data revealed key insights."
+    },
+    {
+        "enWord": "assessment",
+        "trWord": "değerlendirme",
+        "sentence": "The assessment of student performance is conducted each semester."
+    },
+    {
+        "enWord": "atmosphere",
+        "trWord": "atmosfer",
+        "sentence": "The restaurant had a cozy atmosphere with soft lighting."
+    },
+    {
+        "enWord": "behavior",
+        "trWord": "davranış",
+        "sentence": "Understanding animal behavior can help in their conservation."
+    },
+    {
+        "enWord": "benefit",
+        "trWord": "fayda",
+        "sentence": "Regular exercise provides numerous health benefits."
+    },
+    {
+        "enWord": "complication",
+        "trWord": "karmaşıklık",
+        "sentence": "The surgery was successful despite some unexpected complications."
+    },
+    {
+        "enWord": "component",
+        "trWord": "bileşen",
+        "sentence": "The software's functionality relies on several key components."
+    },
+    {
+        "enWord": "contribution",
+        "trWord": "katkı",
+        "sentence": "Her contribution to the project was highly valued."
+    },
+    {
+        "enWord": "creativity",
+        "trWord": "yaratıcılık",
+        "sentence": "Creativity is essential for problem-solving in design."
+    },
+    {
+        "enWord": "definition",
+        "trWord": "tanım",
+        "sentence": "The definition of success varies greatly among individuals."
+    },
+    {
+        "enWord": "determination",
+        "trWord": "kararlılık",
+        "sentence": "Her determination to succeed was evident in her hard work."
+    },
+    {
+        "enWord": "distribution",
+        "trWord": "dağıtım",
+        "sentence": "The distribution network ensures products reach all regions."
+    },
+    {
+        "enWord": "engagement",
+        "trWord": "katılım",
+        "sentence": "Employee engagement is crucial for a productive workplace."
+    },
+    {
+        "enWord": "enhancement",
+        "trWord": "geliştirme",
+        "sentence": "The software enhancement improved user experience."
+    },
+    {
+        "enWord": "feedback",
+        "trWord": "geri bildirim",
+        "sentence": "The feedback from the survey was used to make improvements."
+    },
+    {
+        "enWord": "function",
+        "trWord": "işlev",
+        "sentence": "The new function added to the app enhances its usability."
+    },
+    {
+        "enWord": "implementation",
+        "trWord": "uygulama",
+        "sentence": "The implementation of the new policy began last week."
+    },
+    {
+        "enWord": "innovation",
+        "trWord": "yenilik",
+        "sentence": "Innovation in technology drives the modern economy."
+    },
+    {
+        "enWord": "interaction",
+        "trWord": "etkileşim",
+        "sentence": "The interaction between team members improved project outcomes."
+    },
+    {
+        "enWord": "management",
+        "trWord": "yönetim",
+        "sentence": "Effective management is essential for achieving organizational goals."
+    },
+    {
+        "enWord": "model",
+        "trWord": "model",
+        "sentence": "The new business model focuses on sustainability."
+    },
+    {
+        "enWord": "operation",
+        "trWord": "operasyon",
+        "sentence": "The operation of the new machinery was smooth and efficient."
+    },
+    {
+        "enWord": "perspective",
+        "trWord": "bakış açısı",
+        "sentence": "Gaining a new perspective can change your approach to a problem."
+    },
+    {
+        "enWord": "procedure",
+        "trWord": "prosedür",
+        "sentence": "Following the correct procedure is crucial for safety."
+    },
+    {
+        "enWord": "productivity",
+        "trWord": "verimlilik",
+        "sentence": "Increasing productivity requires effective time management."
+    },
+    {
+        "enWord": "profile",
+        "trWord": "profil",
+        "sentence": "Updating your profile helps in connecting with relevant opportunities."
+    },
+    {
+        "enWord": "project",
+        "trWord": "proje",
+        "sentence": "The project was completed ahead of schedule."
+    },
+    {
+        "enWord": "quality",
+        "trWord": "kalite",
+        "sentence": "Maintaining high quality standards is vital for customer satisfaction."
+    },
+    {
+        "enWord": "reliability",
+        "trWord": "güvenilirlik",
+        "sentence": "The reliability of the service was praised by all users."
+    },
+    {
+        "enWord": "research",
+        "trWord": "araştırma",
+        "sentence": "Ongoing research is necessary for scientific advancement."
+    },
+    {
+        "enWord": "resolution",
+        "trWord": "çözüm",
+        "sentence": "The resolution of the conflict required careful negotiation."
+    },
+    {
+        "enWord": "resource",
+        "trWord": "kaynak",
+        "sentence": "Efficient use of resources can lead to cost savings."
+    },
+    {
+        "enWord": "strategy",
+        "trWord": "strateji",
+        "sentence": "A clear strategy is essential for achieving long-term success."
+    },
+    {
+        "enWord": "sustainability",
+        "trWord": "sürdürülebilirlik",
+        "sentence": "Sustainability practices help in preserving natural resources."
+    },
+    {
+        "enWord": "technology",
+        "trWord": "teknoloji",
+        "sentence": "Advancements in technology are shaping the future of industries."
+    },
+    {
+        "enWord": "theory",
+        "trWord": "teori",
+        "sentence": "The theory proposed by the scientist was groundbreaking."
+    },
+    {
+        "enWord": "training",
+        "trWord": "eğitim",
+        "sentence": "Employee training is crucial for professional development."
+    },
+    {
+        "enWord": "trend",
+        "trWord": "eğilim",
+        "sentence": "The latest fashion trends are often showcased in magazines."
+    },
+    {
+        "enWord": "validation",
+        "trWord": "doğrulama",
+        "sentence": "The validation of data ensures its accuracy and reliability."
+    },
+    {
+        "enWord": "variation",
+        "trWord": "değişim",
+        "sentence": "There was a variation in the results due to different conditions."
+    },
+    {
+        "enWord": "volume",
+        "trWord": "hacim",
+        "sentence": "The volume of sales increased significantly over the holiday season."
+    },
+    {
+        "enWord": "workflow",
+        "trWord": "iş akışı",
+        "sentence": "Optimizing the workflow can improve overall efficiency."
+    },
+    {
+        "enWord": "yield",
+        "trWord": "verim",
+        "sentence": "The new farming techniques led to a higher yield of crops."
+    },
+    {
+        "enWord": "abundance",
+        "trWord": "bolluk",
+        "sentence": "The garden had an abundance of colorful flowers."
+    },
+    {
+        "enWord": "beneficial",
+        "trWord": "faydalı",
+        "sentence": "Regular exercise is beneficial for overall health."
+    },
+    {
+        "enWord": "collaborate",
+        "trWord": "işbirliği yapmak",
+        "sentence": "The teams decided to collaborate on the research project."
+    },
+    {
+        "enWord": "commitment",
+        "trWord": "taahhüt",
+        "sentence": "Her commitment to the cause was evident in her work."
+    },
+    {
+        "enWord": "compelling",
+        "trWord": "ikna edici",
+        "sentence": "The presentation was compelling and held everyone's attention."
+    },
+    {
+        "enWord": "contribute",
+        "trWord": "katkıda bulunmak",
+        "sentence": "Everyone is encouraged to contribute ideas during the meeting."
+    },
+    {
+        "enWord": "diversity",
+        "trWord": "çeşitlilik",
+        "sentence": "The company values diversity in its workforce."
+    },
+    {
+        "enWord": "elaborate",
+        "trWord": "ayrıntılı",
+        "sentence": "Can you elaborate on the details of your proposal?"
+    },
+    {
+        "enWord": "evaluate",
+        "trWord": "değerlendirmek",
+        "sentence": "We need to evaluate the effectiveness of the new strategy."
+    },
+    {
+        "enWord": "expand",
+        "trWord": "genişletmek",
+        "sentence": "The company plans to expand its operations into new markets."
+    },
+    {
+        "enWord": "facilitate",
+        "trWord": "kolaylaştırmak",
+        "sentence": "The software helps to facilitate communication between team members."
+    },
+    {
+        "enWord": "flexibility",
+        "trWord": "esneklik",
+        "sentence": "Flexibility in work hours can improve employee satisfaction."
+    },
+    {
+        "enWord": "forecast",
+        "trWord": "tahmin",
+        "sentence": "The weather forecast predicts rain for the weekend."
+    },
+    {
+        "enWord": "implement",
+        "trWord": "uygulamak",
+        "sentence": "The new policies will be implemented starting next month."
+    },
+    {
+        "enWord": "influence",
+        "trWord": "etki",
+        "sentence": "Her positive attitude had a strong influence on the team."
+    },
+    {
+        "enWord": "initiative",
+        "trWord": "öncülük",
+        "sentence": "The initiative aims to reduce plastic waste in the community."
+    },
+    {
+        "enWord": "insight",
+        "trWord": "içgörü",
+        "sentence": "The report provides valuable insight into market trends."
+    },
+    {
+        "enWord": "interpret",
+        "trWord": "yorumlamak",
+        "sentence": "It's important to interpret the data accurately for reliable results."
+    },
+    {
+        "enWord": "justify",
+        "trWord": "haklı çıkarmak",
+        "sentence": "She had to justify her decision to the board."
+    },
+    {
+        "enWord": "maintain",
+        "trWord": "sürdürmek",
+        "sentence": "It's crucial to maintain high standards of quality."
+    },
+    {
+        "enWord": "modify",
+        "trWord": "değiştirmek",
+        "sentence": "We need to modify the design to meet the new requirements."
+    },
+    {
+        "enWord": "negotiate",
+        "trWord": "müzakere etmek",
+        "sentence": "They had to negotiate the terms of the contract."
+    },
+    {
+        "enWord": "obtain",
+        "trWord": "edinmek",
+        "sentence": "You need to obtain permission before starting the project."
+    },
+    {
+        "enWord": "participate",
+        "trWord": "katılmak",
+        "sentence": "Everyone is encouraged to participate in the team-building activities."
+    },
+    {
+        "enWord": "persuade",
+        "trWord": "ikna etmek",
+        "sentence": "He tried to persuade them to adopt his plan."
+    },
+    {
+        "enWord": "prioritize",
+        "trWord": "öncelik vermek",
+        "sentence": "You need to prioritize your tasks to manage your time effectively."
+    },
+    {
+        "enWord": "recruit",
+        "trWord": "işe almak",
+        "sentence": "The company is looking to recruit new talent."
+    },
+    {
+        "enWord": "reliability",
+        "trWord": "güvenilirlik",
+        "sentence": "Reliability is a key factor in choosing a service provider."
+    },
+    {
+        "enWord": "resilient",
+        "trWord": "dayanıklı",
+        "sentence": "The new materials are more resilient to wear and tear."
+    },
+    {
+        "enWord": "revise",
+        "trWord": "gözden geçirmek",
+        "sentence": "You should revise your report before submitting it."
+    },
+    {
+        "enWord": "schedule",
+        "trWord": "program",
+        "sentence": "We need to create a schedule for the project tasks."
+    },
+    {
+        "enWord": "specify",
+        "trWord": "belirtmek",
+        "sentence": "Please specify the details of your request."
+    },
+    {
+        "enWord": "strategize",
+        "trWord": "strateji oluşturmak",
+        "sentence": "The team needs to strategize for the upcoming quarter."
+    },
+    {
+        "enWord": "sustain",
+        "trWord": "sürdürmek",
+        "sentence": "It's important to sustain efforts towards environmental conservation."
+    },
+    {
+        "enWord": "transition",
+        "trWord": "geçiş",
+        "sentence": "The transition to remote work was smooth and well-managed."
+    },
+    {
+        "enWord": "unveiling",
+        "trWord": "açılış",
+        "sentence": "The unveiling of the new product drew a lot of attention."
+    },
+    {
+        "enWord": "validate",
+        "trWord": "doğrulamak",
+        "sentence": "We need to validate the results before publishing them."
+    },
+    {
+        "enWord": "variety",
+        "trWord": "çeşitlilik",
+        "sentence": "The menu offers a variety of options for different tastes."
+    },
+    {
+        "enWord": "vivid",
+        "trWord": "canlı",
+        "sentence": "The painting's vivid colors make it stand out."
+    },
+    {
+        "enWord": "widespread",
+        "trWord": "yaygın",
+        "sentence": "The new policy had a widespread impact on the organization."
+    },
+    {
+        "enWord": "yield",
+        "trWord": "verim",
+        "sentence": "The investment yielded significant returns over the years."
+    },
+    {
+        "enWord": "zone",
+        "trWord": "bölge",
+        "sentence": "The restricted zone is off-limits to unauthorized personnel."
+    },
+    {
+        "enWord": "accomplish",
+        "trWord": "başarmak",
+        "sentence": "We were able to accomplish all our goals for the year."
+    },
+    {
+        "enWord": "adapt",
+        "trWord": "uyum sağlamak",
+        "sentence": "The company needs to adapt quickly to changing market conditions."
+    },
+    {
+        "enWord": "analyze",
+        "trWord": "analiz etmek",
+        "sentence": "We will analyze the results to determine the next steps."
+    },
+    {
+        "enWord": "anticipate",
+        "trWord": "önceden tahmin etmek",
+        "sentence": "We anticipate that sales will increase during the holiday season."
+    },
+    {
+        "enWord": "assemble",
+        "trWord": "toplamak",
+        "sentence": "We need to assemble a team to tackle this project."
+    },
+    {
+        "enWord": "assess",
+        "trWord": "değerlendirmek",
+        "sentence": "The manager will assess the team's performance at the end of the quarter."
+    },
+    {
+        "enWord": "benefit",
+        "trWord": "yarar",
+        "sentence": "The new policy will benefit all employees."
+    },
+    {
+        "enWord": "concept",
+        "trWord": "kavram",
+        "sentence": "The concept of renewable energy is gaining popularity."
+    },
+    {
+        "enWord": "conduct",
+        "trWord": "yürütmek",
+        "sentence": "We need to conduct a survey to gather more data."
+    },
+    {
+        "enWord": "create",
+        "trWord": "oluşturmak",
+        "sentence": "We plan to create a new marketing strategy for the upcoming year."
+    },
+    {
+        "enWord": "debate",
+        "trWord": "tartışmak",
+        "sentence": "The team engaged in a debate about the best approach."
+    },
+    {
+        "enWord": "deliver",
+        "trWord": "teslim etmek",
+        "sentence": "We need to deliver the final report by the end of the week."
+    },
+    {
+        "enWord": "design",
+        "trWord": "tasarlamak",
+        "sentence": "The design of the new website is user-friendly and modern."
+    },
+    {
+        "enWord": "develop",
+        "trWord": "geliştirmek",
+        "sentence": "The company aims to develop new technologies for better efficiency."
+    },
+    {
+        "enWord": "emphasize",
+        "trWord": "vurgulamak",
+        "sentence": "The presentation should emphasize the key benefits of the product."
+    },
+    {
+        "enWord": "establish",
+        "trWord": "kurmak",
+        "sentence": "They plan to establish a new office in the city."
+    },
+    {
+        "enWord": "evidence",
+        "trWord": "kanıt",
+        "sentence": "The evidence presented supports the conclusion of the study."
+    },
+    {
+        "enWord": "execute",
+        "trWord": "uygulamak",
+        "sentence": "We need to execute the plan according to the outlined steps."
+    },
+    {
+        "enWord": "explore",
+        "trWord": "keşfetmek",
+        "sentence": "The team will explore new markets to expand their reach."
+    },
+    {
+        "enWord": "formulate",
+        "trWord": "formüle etmek",
+        "sentence": "We need to formulate a new strategy to address the challenges."
+    },
+    {
+        "enWord": "functionality",
+        "trWord": "işlevsellik",
+        "sentence": "The new software's functionality has been greatly improved."
+    },
+    {
+        "enWord": "implement",
+        "trWord": "uygulamak",
+        "sentence": "We will implement the changes starting next month."
+    },
+    {
+        "enWord": "integrate",
+        "trWord": "bütünleştirmek",
+        "sentence": "The new system will integrate with the existing infrastructure."
+    },
+    {
+        "enWord": "invest",
+        "trWord": "yatırım yapmak",
+        "sentence": "The company plans to invest in research and development."
+    },
+    {
+        "enWord": "justify",
+        "trWord": "haklı çıkarmak",
+        "sentence": "You need to justify your decision with solid arguments."
+    },
+    {
+        "enWord": "manage",
+        "trWord": "yönetmek",
+        "sentence": "She was able to manage the project effectively despite the challenges."
+    },
+    {
+        "enWord": "monitor",
+        "trWord": "izlemek",
+        "sentence": "We need to monitor the system for any unusual activity."
+    },
+    {
+        "enWord": "negotiate",
+        "trWord": "müzakere etmek",
+        "sentence": "They had to negotiate the terms of the agreement."
+    },
+    {
+        "enWord": "optimize",
+        "trWord": "optimize etmek",
+        "sentence": "We need to optimize the process to increase efficiency."
+    },
+    {
+        "enWord": "perspective",
+        "trWord": "bakış açısı",
+        "sentence": "A fresh perspective can often lead to innovative solutions."
+    },
+    {
+        "enWord": "prioritize",
+        "trWord": "öncelik vermek",
+        "sentence": "We need to prioritize tasks to meet the deadline."
+    },
+    {
+        "enWord": "review",
+        "trWord": "gözden geçirmek",
+        "sentence": "The committee will review the proposals next week."
+    },
+    {
+        "enWord": "standard",
+        "trWord": "standart",
+        "sentence": "The product meets all industry standards for safety."
+    },
+    {
+        "enWord": "strategy",
+        "trWord": "strateji",
+        "sentence": "Developing a solid strategy is crucial for business success."
+    },
+    {
+        "enWord": "succeed",
+        "trWord": "başarmak",
+        "sentence": "With hard work and dedication, you will succeed."
+    },
+    {
+        "enWord": "survey",
+        "trWord": "anket",
+        "sentence": "We conducted a survey to gather customer feedback."
+    },
+    {
+        "enWord": "target",
+        "trWord": "hedef",
+        "sentence": "Our target for this quarter is to increase sales by 20%."
+    },
+    {
+        "enWord": "track",
+        "trWord": "izlemek",
+        "sentence": "You can track the progress of the project online."
+    },
+    {
+        "enWord": "unique",
+        "trWord": "eşsiz",
+        "sentence": "The design of the product is unique and stands out."
+    },
+    {
+        "enWord": "utilize",
+        "trWord": "kullanmak",
+        "sentence": "We need to utilize all available resources to complete the project."
+    },
+    {
+        "enWord": "validate",
+        "trWord": "doğrulamak",
+        "sentence": "The results need to be validated by an independent team."
+    },
+    {
+        "enWord": "vision",
+        "trWord": "vizyon",
+        "sentence": "The company's vision for the future is ambitious and clear."
+    },
+    {
+        "enWord": "yield",
+        "trWord": "verim",
+        "sentence": "The crop yield was higher than expected this year."
+    },
+    {
+        "enWord": "zeal",
+        "trWord": "heves",
+        "sentence": "She approached the project with great zeal and enthusiasm."
     }
 ]

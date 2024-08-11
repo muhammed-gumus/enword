@@ -81,6 +81,22 @@ app.get("/words", async (req, res) => {
   }
 });
 
+// Route to get all documents from MongoDB
+app.get("/wordsAll", async (req, res) => {
+  try {
+    await client.connect();
+    const db = client.db(dbName);
+    const collection = db.collection(collectionName);
+
+    // Fetch all documents
+    const words = await collection.find({}).toArray();
+
+    res.json(words);
+  } catch (err) {
+    res.status(500).send(err.toString());
+  }
+});
+
 app.listen(3001, () => {
   console.log("Server is running on port 3001");
 

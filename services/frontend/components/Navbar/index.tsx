@@ -17,7 +17,7 @@ export default function Navbar() {
         </Link>
         <div className="flex flex-row gap-4 items-center text-xs md:text-base md:gap-8 font-medium">
           <Link
-            href="/allWord"
+            href="/AllWords"
             className="text-gray-700 hover:text-blue-600 transition-colors"
           >
             All Words
