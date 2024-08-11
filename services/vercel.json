@@ -1,20 +1,19 @@
 {
     "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "https://memory-word-backend.vercel.app/$1"
-      }
+        {
+            "source": "/(.*)",
+            "destination": "/api"
+        }
     ],
     "headers": [
-      {
-        "source": "/(.*)",
-        "headers": [
-          {
-            "key": "Access-Control-Allow-Origin",
-            "value": "*"
-          }
-        ]
-      }
+        {
+            "source": "/(.*)",
+            "headers": [
+                {
+                    "key": "Access-Control-Allow-Origin",
+                    "value": "*"
+                }
+            ]
+        }
     ]
-  }
-  
+}
