@@ -28,6 +28,12 @@ const WordCard: React.FC = () => {
     fetchWords();
   }, []);
 
+  // Helper function to highlight the word in the sentence
+  const highlightWord = (sentence: string, word: string) => {
+    const regex = new RegExp(`(${word})`, "gi");
+    return sentence.replace(regex, '<span class="font-bold">$1</span>');
+  };
+
   if (loading) {
     return <LoadingComponent />;
   }
@@ -65,9 +71,12 @@ const WordCard: React.FC = () => {
                 <h3 className="text-xl md:text-2xl font-semibold text-purple-600">
                   Example Sentence
                 </h3>
-                <p className="text-lg md:text-xl text-gray-800 mt-1">
-                  {word.sentence}
-                </p>
+                <p
+                  className="text-lg md:text-xl text-gray-800 mt-1"
+                  dangerouslySetInnerHTML={{
+                    __html: highlightWord(word.sentence, word.enWord),
+                  }}
+                />
               </div>
             </div>
           </div>
